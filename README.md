@@ -55,3 +55,7 @@ It also served as a valuable learning experience in Natural Language Processing 
 
 - Python 3.7 or higher
 
+## output
+
+
+![Image](https://github.com/user-attachments/assets/b0aee09a-98c4-4f76-8088-6dcdacc0250d)
